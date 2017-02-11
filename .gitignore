@@ -1,0 +1,7 @@
+// Ignore everything
+*
+
+//Except...
+!.gitignore
+!*.sublime-settings
+!README.md

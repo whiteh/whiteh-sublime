@@ -1,0 +1,11 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_close_tags": false,
+	"auto_match_enabled": false,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Material-Theme.sublime-theme"
+}
