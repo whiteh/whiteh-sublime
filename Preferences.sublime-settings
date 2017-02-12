@@ -7,5 +7,6 @@
 	[
 		"Vintage"
 	],
-	"theme": "Material-Theme.sublime-theme"
+	"theme": "Material-Theme.sublime-theme",
+	"word_wrap" : false
 }
