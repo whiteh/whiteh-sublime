@@ -9,5 +9,6 @@
 	],
 	"tab_completion": false,
 	"theme": "Material-Theme.sublime-theme",
-	"word_wrap": false
+	"word_wrap": false,
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules", "bower_components"]
 }
