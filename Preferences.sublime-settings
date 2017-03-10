@@ -7,6 +7,7 @@
 	[
 		"Vintage"
 	],
+	"tab_completion": false,
 	"theme": "Material-Theme.sublime-theme",
-	"word_wrap" : false
+	"word_wrap": false
 }

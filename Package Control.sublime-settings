@@ -6,6 +6,8 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"ColorHelper",
+		"ColorPicker",
 		"ESLint",
 		"Git",
 		"Markdown Preview",
