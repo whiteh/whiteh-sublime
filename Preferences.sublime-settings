@@ -17,6 +17,8 @@
 		"Vintage"
 	],
 	"tab_completion": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
 	"theme": "Material-Theme.sublime-theme",
 	"word_wrap": false
 }
