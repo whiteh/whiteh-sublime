@@ -5,18 +5,34 @@
 	],
 	"installed_packages":
 	[
-		"1337 Color Scheme",
 		"A File Icon",
+		"BracketHighlighter",
 		"ColorHelper",
 		"ColorPicker",
 		"ESLint",
 		"Git",
+		"Jade",
+		"JSON Reindent",
+		"JsonTree",
 		"Markdown Preview",
 		"Material Theme",
+		"Mercurial",
+		"nginx",
 		"Package Control",
+		"Pretty JSON",
 		"Pug",
+		"Sass",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
-		"TernJS"
+		"SublimeLinter-eslint",
+		"Theme - One Dark",
+		"TypeScript",
+		"TypeScript Syntax",
+		"Vue Syntax Highlight",
+		"VueFormatter",
+		"WakaTime",
+		"Whitespace",
+		"WordHighlight"
 	]
 }

@@ -1,8 +1,11 @@
 {
 	"always_show_minimap_viewport": true,
-	"auto_close_tags": false,
-	"auto_match_enabled": false,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"auto_close_tags": true,
+	"auto_match_enabled": true,
+	"caret_style": "blink",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -12,13 +15,34 @@
 		"node_modules",
 		"bower_components"
 	],
+	"font_face": "Fira Code",
+	"font_size": 11,
+	"highlight_line": true,
 	"ignored_packages":
 	[
+		"ESLint",
+		"SublimeCodeIntel",
+		"SublimeLinter-eslint",
 		"Vintage"
 	],
-	"tab_completion": false,
+	"line_padding_bottom": 1,
+	"line_padding_top": 2,
+	"margin": 0,
+	"match_selection": true,
+	"material_theme_accent_cyan": true,
+	"material_theme_arrow_folders": true,
+	"material_theme_big_fileicons": true,
+	"material_theme_bullet_tree_indicator": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_tabs_autowidth": true,
+	"scroll_past_end": false,
+	"show_definitions": true,
+	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"tree_animation_enabled": true,
+	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
 }
